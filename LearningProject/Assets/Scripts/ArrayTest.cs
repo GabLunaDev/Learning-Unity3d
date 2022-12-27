@@ -21,11 +21,6 @@ public class ArrayTest : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        int i = 0;
-        foreach (GameObject obj in objects)
-        {
-            Destroy(obj, 2f + i);
-            i += 2;
-        }
+
     }
 }
