@@ -400,6 +400,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
 "Assets/Scripts/ArrayTest.cs"
 "Assets/Scripts/FirstScript.cs"
+"Assets/Scripts/GetComponentTest.cs"
 "Assets/Scripts/TestScript.cs"
 -langversion:9.0
 

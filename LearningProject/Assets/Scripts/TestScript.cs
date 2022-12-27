@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class TestScript : MonoBehaviour
@@ -12,7 +10,7 @@ public class TestScript : MonoBehaviour
 
         foreach (GameObject obj in searchObj)
         {
-            Destroy(obj, 2f);
+            Destroy(obj, 1f);
         }
 
     }
