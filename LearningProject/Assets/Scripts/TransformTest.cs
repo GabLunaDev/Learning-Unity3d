@@ -3,7 +3,7 @@ using UnityEngine;
 public class TransformTest : MonoBehaviour {
     
     Vector3 pos;
-    public int speed;
+    public float speed;
 
     private void Start() {
 
