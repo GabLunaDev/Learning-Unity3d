@@ -5,10 +5,6 @@ public class InstatiateTest : MonoBehaviour {
     GameObject ballSummoned;
     GameObject ball;
 
-    private void Start() {
-
-    }
-
     private void Update() {
 
         if( Input.GetMouseButtonDown(0) ){
