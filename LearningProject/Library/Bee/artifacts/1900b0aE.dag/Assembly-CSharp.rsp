@@ -402,6 +402,7 @@
 "Assets/Scripts/FirstScript.cs"
 "Assets/Scripts/GetComponentTest.cs"
 "Assets/Scripts/InstatiateTest.cs"
+"Assets/Scripts/NewTest.cs"
 "Assets/Scripts/TestScript.cs"
 "Assets/Scripts/TestScript2.cs"
 "Assets/Scripts/TransformTest.cs"
