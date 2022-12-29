@@ -399,6 +399,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
 "Assets/Scripts/ArrayTest.cs"
+"Assets/Scripts/CamFollow.cs"
 "Assets/Scripts/FirstScript.cs"
 "Assets/Scripts/GetComponentTest.cs"
 "Assets/Scripts/InputTest.cs"
