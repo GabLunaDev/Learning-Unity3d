@@ -8,3 +8,9 @@ A simple game where you drive a car around a neighborhood, collecting packages a
 <div align="center">
   <img align="center" src="./Contents/Gif-CarDelivery.gif" width="550">
 </div>
+
+## [🏂 2st Game - Snow Boarder ❄️](https://github.com/GabLunaDev/Learning-Unity3d/tree/main/Snow%20Boarder)
+Another simple game where you control a Snow Boarder to reach the end of the level without hitting your head.
+<div align="center">
+  <img align="center" src="./Contents/Gif-SnowBoarder.gif" width="550">
+</div>
